@@ -18,3 +18,8 @@ When all the up steps is done. just execute the build-libmp4v2-for-iOS
 <br/>
 # Result #
 The fat dir is "fat" in the root dir,the thin dir for the corresponding arch in the "thin" dir
+
+<br/>
+<br/>
+
+Reference：https://github.com/Thinkerfans/lib-mp4v2
